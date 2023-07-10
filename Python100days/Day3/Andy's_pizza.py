@@ -1,7 +1,7 @@
 print("Welcome to Andy's Pizzas")
-size = input("What pizza size do you want? S, M or L : ")
-pepperoni = input("Do you want pepperoni? Y or N : ")
-cheese = input("Do you want cheese? Y or N : ")
+size = input("What pizza size do you want? S, M or L : ").lower()
+pepperoni = input("Do you want pepperoni? Y or N : ").lower()
+cheese = input("Do you want cheese? Y or N : ").lower()
 bill = 0
 # Small size pizza calculation
 if size == 's':
@@ -40,26 +40,26 @@ elif size == 'l':
 else:
     print("No such Pizza size exist here")
 
-# Another one
-size = input("What pizza size do you want? S, M or L : ")
-pepperoni = input("Do you want pepperoni? Y or N : ")
-cheese = input("Do you want cheese? Y or N : ")
-bill = 0
+# # Another one
+# size = input("What pizza size do you want? S, M or L : ").lower()
+# pepperoni = input("Do you want pepperoni? Y or N : ").lower()
+# cheese = input("Do you want cheese? Y or N : ").lower()
+# bill = 0
 
-if size =='s':
-    bill +=15
-if size =='m':
-    bill +=20
-if size =='l':
-    bill +=25
+# if size =='s':
+#     bill +=15
+# if size =='m':
+#     bill +=20
+# if size =='l':
+#     bill +=25
     
-if pepperoni == 'y':
-    if size == 's':
-        bill += 2
-    else:
-        bill += 3
+# if pepperoni == 'y':
+#     if size == 's':
+#         bill += 2
+#     else:
+#         bill += 3
 
-if cheese == 'y':
-    bill += 1
+# if cheese == 'y':
+#     bill += 1
 
-print(f"Your Final bill is : ${bill}")
+# print(f"Your Final bill is : ${bill}")
