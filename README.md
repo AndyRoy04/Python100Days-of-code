@@ -1,4 +1,3 @@
-![HelloGIF](https://github.com/AndyRoy04/Python100Days-of-code/assets/118135786/2e3e11f3-23e5-48d5-9af2-67e5aa5df38d)
 # Hey everyone, I'm Anderson Roy and Enthusiastic python programmer and I'll be uploading my 100days-of-python code challenge in this repository. 
 # So if you're interested in learning, you can go through the various daily challenges and learn something new
 
@@ -62,6 +61,8 @@ Today was full of python functions.
 
 ## Have you ever wanted to know about ciphers? Then you'll like starting off with Caesar's cipher. Caesar cipher mostly deals with letters. An encoded text is gotten when a plain text is passed as input an all its chars are shifted X directions left or right. This gives a text that is not readable and can only be decoded with the primary key
 Read more :  A Caesar cipher is a simple method of encoding messages. Caesar ciphers use a substitution method where letters in the alphabet are shifted by some fixed number of spaces to yield an encoding alphabet. A Caesar cipher with a shift of 1 would encode an A as a B, an M as an N, and a Z as an A, and so on. like below
+
+
 ![image](https://github.com/AndyRoy04/Python100Days-of-code/assets/118135786/18af18b8-61e6-4292-b34d-4628d3fac402)
 ## I learned function parameters and arguements
 
