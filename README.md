@@ -66,3 +66,13 @@ Read more :  A Caesar cipher is a simple method of encoding messages. Caesar cip
 ![image](https://github.com/AndyRoy04/Python100Days-of-code/assets/118135786/18af18b8-61e6-4292-b34d-4628d3fac402)
 ## I learned function parameters and arguements
 
+
+# Day9 : Auction Bid 🔨
+
+## The auctiion bid game is a trickish but quite interesting game since it has to do with looping through a dictionary. So basically a Bidder enters his/her bid and then tells the computer if there are other bidders around. When all bidders have set their bids, there's a function created to loop through a dictionary and get the highest bidders name and the bidders bid and then display
+
+Other task are Grading system which takes student grade and attribute them different gradings, there's also a dictionary list where you enter some given parameters and they are then saved into an already existing list
+
+## From all this, I fill like this is a great start to understanding how NoSQL Databases work
+
+## I Learned about Python dictionaries and nesting
