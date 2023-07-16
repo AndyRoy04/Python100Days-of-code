@@ -76,3 +76,12 @@ Other task are Grading system which takes student grade and attribute them diffe
 ## From all this, I fill like this is a great start to understanding how NoSQL Databases work
 
 ## I Learned about Python dictionaries and nesting
+
+
+# Day10 : Simple Calculator 🧮
+
+## The Day10 project was to build a simple calculator that does basic math functions. We all know the functioning of a calculator. It takes in 2 variable and an operation and solves for a subsiquent output and asks if the user is willing to continue with the previous calculation 
+
+I also built a day in month calculator that tells you the number of days in a given month respective of if it's a leap year or not
+
+## I mostly learned and worked with functions and how to write Docstrings within a function with outputs 
