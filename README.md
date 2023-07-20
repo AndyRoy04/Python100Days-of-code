@@ -85,3 +85,22 @@ Other task are Grading system which takes student grade and attribute them diffe
 I also built a day in month calculator that tells you the number of days in a given month respective of if it's a leap year or not
 
 ## I mostly learned and worked with functions and how to write Docstrings within a function with outputs 
+
+
+# Day11 : Blackjack or 21 🎴🃏
+
+## The blackjack - also called '21' is a classic casino card game of luck and skill!.On this, we shall have a dealer and player(s). There're several rules to this game and I'll jsut provide some tips. 
+1. When the value of dealer's revealed card is 4,5 or 6, it may be fruitful to double your bet with an Ace and 4 in hand.
+2. You may want to surrender if you have 16 in your hand while the dealer has a 9,10 or A since picking a card might prompt you to failing.
+3. If you get a pair of 7s, only press hit if the dealer has 8,9,10 or Ace.
+<!-- Some fue more details about the game -->
+Card Values: In blackjack, each card has a specific value. Number cards (2-10) are worth their face value, face cards (Jack, Queen, King) are worth 10, and the Ace can be worth either 1 or 11, depending on which value is more beneficial for the player.
+   - Hit: The player can ask for another card to be added to their hand. They can continue hitting until they are satisfied with their hand or they exceed a total hand value of 21, known as "busting." If a player busts, they lose the hand.
+
+   - Stand: The player can choose to stand, which means they are satisfied with their current hand and do not want any more cards.
+
+   - Double Down: In some variations, players may have the option to double down. This involves doubling their original bet and receiving one final card.
+
+   - Split: If the player's first two cards are of the same rank (e.g., two 8s), they may choose to split their hand into two separate hands. Each hand is then played independently, with an additional bet for the second hand.
+
+## On todays project I'm to put in my knowledge of previous work and projects done to go through this fun game. 
